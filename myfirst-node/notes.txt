@@ -1,0 +1,7 @@
+There is command, not to execute a purticular module.
+
+Event:
+node gives me defualt 10 listners.
+we can modify that with event.setMaxListeners(1);
+
+
